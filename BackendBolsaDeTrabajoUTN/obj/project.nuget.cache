@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PInrRSpKqoJxDagcULVXVhzoLPx3twYh2l117wTijD9rnxpfpRZ5AuVL926pEYf2G7VlJ5iX8y+0pKvWc+OQXg==",
+  "dgSpecHash": "LAnDr5YYLAZR3hoJ4/YwPe+NeIqCyq7QJRfkD7uEzZUJ406i6H4o4kknNA+vRvnOf+utve5OHS/+3qIbiBwIKA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Luciano\\Desktop\\PRUEBA 2\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,7 @@
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
-    "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.5\\microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",
+    "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.0-preview.1.23111.4\\microsoft.entityframeworkcore.analyzers.8.0.0-preview.1.23111.4.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.5\\microsoft.entityframeworkcore.design.7.0.5.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.5\\microsoft.entityframeworkcore.relational.7.0.5.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.5\\microsoft.entityframeworkcore.tools.7.0.5.nupkg.sha512",
@@ -51,5 +51,16 @@
     "C:\\Users\\Luciano\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "BackendBolsaDeTrabajoUTN depende de Microsoft.EntityFrameworkCore.Analyzers (>= 7.0.9-preview1.21328.1), pero no se encontró Microsoft.EntityFrameworkCore.Analyzers 7.0.9-preview1.21328.1. Se resolvió una mejor coincidencia aproximada de Microsoft.EntityFrameworkCore.Analyzers 8.0.0-preview.1.23111.4.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Analyzers",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
