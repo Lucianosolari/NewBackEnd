@@ -62,6 +62,7 @@ builder.Services.AddAuthentication("Bearer") //"Bearer" es el tipo de auntentica
     }
 );
 
+
 // Add services to the container.
 
 builder.Services.AddControllers();
