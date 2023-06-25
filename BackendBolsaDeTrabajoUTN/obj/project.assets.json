@@ -97,7 +97,7 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.Analyzers/8.0.0-preview.1.23111.4": {
+      "Microsoft.EntityFrameworkCore.Analyzers/7.0.5": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/_._": {}
@@ -889,17 +889,17 @@
         "microsoft.entityframeworkcore.abstractions.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Analyzers/8.0.0-preview.1.23111.4": {
-      "sha512": "xQ+vn8mw2+k9qm53eAFVr3yskFsmC2VMn67i7zZD7fyW5uDw47WKwoP8le6QeylJPtPBAPAPpZRFrebk8o+Kzw==",
+    "Microsoft.EntityFrameworkCore.Analyzers/7.0.5": {
+      "sha512": "yMLM/aK1MikVqpjxd7PJ1Pjgztd3VAd26ZHxyjxG3RPeM9cHjvS5tCg9kAAayR6eHmBg0ffZsHdT28WfA5tTlA==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.analyzers/8.0.0-preview.1.23111.4",
+      "path": "microsoft.entityframeworkcore.analyzers/7.0.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "analyzers/dotnet/cs/Microsoft.EntityFrameworkCore.Analyzers.dll",
         "lib/netstandard2.0/_._",
-        "microsoft.entityframeworkcore.analyzers.8.0.0-preview.1.23111.4.nupkg.sha512",
+        "microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
@@ -2159,7 +2159,6 @@
       "Docker.DotNet >= 3.125.15",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.9",
       "Microsoft.EntityFrameworkCore >= 7.0.5",
-      "Microsoft.EntityFrameworkCore.Analyzers >= 7.0.9-preview1.21328.1",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.5",
       "Pomelo.EntityFrameworkCore.MySql >= 7.0.0",
       "SendGrid >= 9.28.1",
@@ -2218,10 +2217,6 @@
             "target": "Package",
             "version": "[7.0.5, )"
           },
-          "Microsoft.EntityFrameworkCore.Analyzers": {
-            "target": "Package",
-            "version": "[7.0.9-preview1.21328.1, )"
-          },
           "Microsoft.EntityFrameworkCore.Tools": {
             "suppressParent": "All",
             "target": "Package",
@@ -2266,17 +2261,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "BackendBolsaDeTrabajoUTN depende de Microsoft.EntityFrameworkCore.Analyzers (>= 7.0.9-preview1.21328.1), pero no se encontró Microsoft.EntityFrameworkCore.Analyzers 7.0.9-preview1.21328.1. Se resolvió una mejor coincidencia aproximada de Microsoft.EntityFrameworkCore.Analyzers 8.0.0-preview.1.23111.4.",
-      "libraryId": "Microsoft.EntityFrameworkCore.Analyzers",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

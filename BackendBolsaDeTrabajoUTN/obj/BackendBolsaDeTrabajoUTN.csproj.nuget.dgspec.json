@@ -52,10 +52,6 @@
               "target": "Package",
               "version": "[7.0.5, )"
             },
-            "Microsoft.EntityFrameworkCore.Analyzers": {
-              "target": "Package",
-              "version": "[7.0.9-preview1.21328.1, )"
-            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "suppressParent": "All",
               "target": "Package",
