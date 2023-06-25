@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "hFnmSqyDcOQKpPUnzRKIaaPoSQsfEtqtigTl+p7OZQFOOxmBgqVsU+peP++YcAc+2JbT7IvggCYZVXzxzkGbLQ==",
-  "success": false,
+  "dgSpecHash": "ZDfLROvnhd2fhw87drzZWppOD1MLc0MKnUUQb43HLzr3HzM2nLftUgsJsTL/7LtOGd2F2fnmyX3IkbTdbpcDwg==",
+  "success": true,
   "projectFilePath": "C:\\Users\\Luciano\\Desktop\\PRUEBA 2\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luciano\\.nuget\\packages\\docker.dotnet\\3.125.15\\docker.dotnet.3.125.15.nupkg.sha512",
@@ -10,6 +10,7 @@
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
+    "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.8\\microsoft.entityframeworkcore.analyzers.7.0.8.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.5\\microsoft.entityframeworkcore.design.7.0.5.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.5\\microsoft.entityframeworkcore.relational.7.0.5.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.5\\microsoft.entityframeworkcore.tools.7.0.5.nupkg.sha512",
@@ -50,15 +51,5 @@
     "C:\\Users\\Luciano\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1103",
-      "level": "Error",
-      "message": "No se encuentra un paquete estable Microsoft.EntityFrameworkCore.Analyzers con la versión (>= 7.0.9)\r\n  - Versiones encontradas en nuget.org: 147 [ versión más cercana: 8.0.0-preview.1.23111.4 ]\r\n  - Versiones encontradas en Microsoft Visual Studio Offline Packages: 0",
-      "libraryId": "Microsoft.EntityFrameworkCore.Analyzers",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }
