@@ -2218,7 +2218,7 @@
             "version": "[7.0.5, )"
           },
           "Microsoft.EntityFrameworkCore.Tools": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "include": "Runtime, Build, Native, ContentFiles, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
             "version": "[7.0.5, )"
