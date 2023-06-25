@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZDfLROvnhd2fhw87drzZWppOD1MLc0MKnUUQb43HLzr3HzM2nLftUgsJsTL/7LtOGd2F2fnmyX3IkbTdbpcDwg==",
+  "dgSpecHash": "PInrRSpKqoJxDagcULVXVhzoLPx3twYh2l117wTijD9rnxpfpRZ5AuVL926pEYf2G7VlJ5iX8y+0pKvWc+OQXg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Luciano\\Desktop\\PRUEBA 2\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,7 @@
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
-    "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.8\\microsoft.entityframeworkcore.analyzers.7.0.8.nupkg.sha512",
+    "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.5\\microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.5\\microsoft.entityframeworkcore.design.7.0.5.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.5\\microsoft.entityframeworkcore.relational.7.0.5.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.5\\microsoft.entityframeworkcore.tools.7.0.5.nupkg.sha512",
