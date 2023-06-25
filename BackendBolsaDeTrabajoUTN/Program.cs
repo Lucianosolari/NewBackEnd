@@ -9,7 +9,7 @@ using BackendBolsaDeTrabajoUTN.Data.Repository.Implementations;
 using BackendBolsaDeTrabajoUTN.Services.Interfaces;
 using BackendBolsaDeTrabajoUTN.Data.Repository;
 using System.Text.Json.Serialization;
-using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
+
 
 
 

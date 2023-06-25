@@ -534,3 +534,10 @@ C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoU
 C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.pdb
 C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.genruntimeconfig.cache
 C:\Users\Luciano\Desktop\BACKEND\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\ref\BackendBolsaDeTrabajoUTN.dll
+C:\Users\Luciano\Desktop\PRUEBA 2\NewBackEnd\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.AssemblyReference.cache
+C:\Users\Luciano\Desktop\PRUEBA 2\NewBackEnd\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\Desktop\PRUEBA 2\NewBackEnd\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.AssemblyInfoInputs.cache
+C:\Users\Luciano\Desktop\PRUEBA 2\NewBackEnd\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.AssemblyInfo.cs
+C:\Users\Luciano\Desktop\PRUEBA 2\NewBackEnd\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\PRUEBA 2\NewBackEnd\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luciano\Desktop\PRUEBA 2\NewBackEnd\BackendBolsaDeTrabajoUTN\obj\Debug\net6.0\BackendBolsaDeTrabajoUTN.MvcApplicationPartsAssemblyInfo.cache
