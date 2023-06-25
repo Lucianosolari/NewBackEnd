@@ -2172,11 +2172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luciano\\Desktop\\PRUEBA 2\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN.csproj",
-      "projectName": "BackendBolsaDeTrabajoUTN",
-      "projectPath": "C:\\Users\\Luciano\\Desktop\\PRUEBA 2\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN.csproj",
+      "projectUniqueName": "C:\\Users\\Luciano\\Desktop\\PRUEBA2\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackB.csproj",
+      "projectName": "BackB",
+      "projectPath": "C:\\Users\\Luciano\\Desktop\\PRUEBA2\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackB.csproj",
       "packagesPath": "C:\\Users\\Luciano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luciano\\Desktop\\PRUEBA 2\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\obj\\",
+      "outputPath": "C:\\Users\\Luciano\\Desktop\\PRUEBA2\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luciano\\AppData\\Roaming\\NuGet\\NuGet.Config",
