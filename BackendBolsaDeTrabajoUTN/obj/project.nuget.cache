@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "IO2wrieNpKEv0WMVHelYP7Suhqd2hQdck8BHZgtiEgeDRqiJPzRfP97hLp3xFrqgyHIUfkvQE6OnH2C9O++qAw==",
+  "dgSpecHash": "mb/bkhGM0fp/9vXwC1vwBpEA1yxmY8nTvwA63dnXShAVW5rpoRZlosdjf4A0VuihVvqzhN0NuUS26PfCHAv14w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luciano\\Desktop\\BACKEND\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN.csproj",
+  "projectFilePath": "C:\\Users\\Luciano\\Desktop\\PRUEBA 2\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luciano\\.nuget\\packages\\docker.dotnet\\3.125.15\\docker.dotnet.3.125.15.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.9\\microsoft.aspnetcore.authentication.jwtbearer.6.0.9.nupkg.sha512",
+    "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.4\\microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luciano\\Desktop\\BACKEND\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN.csproj": {}
+    "C:\\Users\\Luciano\\Desktop\\PRUEBA 2\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luciano\\Desktop\\BACKEND\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN.csproj": {
+    "C:\\Users\\Luciano\\Desktop\\PRUEBA 2\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luciano\\Desktop\\BACKEND\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN.csproj",
+        "projectUniqueName": "C:\\Users\\Luciano\\Desktop\\PRUEBA 2\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN.csproj",
         "projectName": "BackendBolsaDeTrabajoUTN",
-        "projectPath": "C:\\Users\\Luciano\\Desktop\\BACKEND\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN.csproj",
+        "projectPath": "C:\\Users\\Luciano\\Desktop\\PRUEBA 2\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN.csproj",
         "packagesPath": "C:\\Users\\Luciano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luciano\\Desktop\\BACKEND\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN\\BackendBolsaDeTrabajoUTN\\obj\\",
+        "outputPath": "C:\\Users\\Luciano\\Desktop\\PRUEBA 2\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luciano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,6 +47,12 @@
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[6.0.9, )"
+            },
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.3.4, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
