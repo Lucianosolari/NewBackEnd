@@ -4,7 +4,7 @@
   "success": true,
   "projectFilePath": "C:\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackB.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Luciano\\.nuget\\packages\\docker.dotnet\\3.125.15\\docker.dotnet.3.125.15.nupkg.sha512",
+    
     "C:\\Users\\Luciano\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.9\\microsoft.aspnetcore.authentication.jwtbearer.6.0.9.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
