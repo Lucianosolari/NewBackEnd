@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackB.csproj": {}
+    "C:\\Users\\Luciano\\Desktop\\LAPUTAMADRE\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackB.csproj": {}
   },
   "projects": {
-    "C:\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackB.csproj": {
+    "C:\\Users\\Luciano\\Desktop\\LAPUTAMADRE\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackB.csproj",
+        "projectUniqueName": "C:\\Users\\Luciano\\Desktop\\LAPUTAMADRE\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackB.csproj",
         "projectName": "BackB",
-        "projectPath": "C:\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackB.csproj",
+        "projectPath": "C:\\Users\\Luciano\\Desktop\\LAPUTAMADRE\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\BackB.csproj",
         "packagesPath": "C:\\Users\\Luciano\\.nuget\\packages\\",
-        "outputPath": "C:\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\obj\\",
+        "outputPath": "C:\\Users\\Luciano\\Desktop\\LAPUTAMADRE\\NewBackEnd\\BackendBolsaDeTrabajoUTN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luciano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,10 +42,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-           
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[6.0.9, )"
+              "version": "[6.0.18, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
